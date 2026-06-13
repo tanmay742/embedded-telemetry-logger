@@ -1,0 +1,10 @@
+# Exclude database generation artifacts
+*.db
+embedded_logs.db
+
+# Exclude compilation/build outputs
+*.o
+*.obj
+*.moc
+*.exe
+build-*/
